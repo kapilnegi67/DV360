@@ -1,0 +1,463 @@
+# Getting HTTP 204 Response code for the below request
+# After modifying it to have Indian IP address in geo object
+
+
+{
+    "id": "38E68FC0-C672-40A5-8BE2-E312A153AB36C",
+    "test":1,
+    "tmax":200,
+    "imp":[
+      {
+          "id": "1",
+          "tagid": "1611018827496942011",
+          "bidfloor":1.052632,
+          "secure":1,
+          "banner":{
+             "w":300,
+             "h":250,
+             "format":[
+               {
+                   "w":300,
+                   "h":250
+               }
+            ],
+             "pos":1,
+             "topframe":1,
+             "battr":[
+               1,
+               8
+            ]
+         },
+          "pmp":{
+             "private_auction":0,
+             "deals":[
+               {
+                   "id": "PM-KOVZ-5116",
+                   "bidfloor":9,
+                   "wseat":[
+                      "1365279563"
+                  ],
+                   "at":3
+               },
+               {
+                   "id": "PM-AGOO-4548",
+                   "bidfloor":11.052632,
+                   "wseat":[
+                      "1282557275"
+                  ]
+               },
+               {
+                   "id": "PM-AOZR-1641",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "1118983120"
+                  ]
+               },
+               {
+                   "id": "PM-ATWW-0966",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "101"
+                  ]
+               },
+               {
+                   "id": "PM-AXXY-5885",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "1775242"
+                  ]
+               },
+               {
+                   "id": "PM-BFJV-8247",
+                   "bidfloor":1.402632,
+                   "wseat":[
+                      "2539031"
+                  ]
+               },
+               {
+                   "id": "PM-BFMV-9424",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "1117388852"
+                  ]
+               },
+               {
+                   "id": "PM-CHBG-4357",
+                   "bidfloor":2.994635,
+                   "wseat":[
+                      "2053249"
+                  ]
+               },
+               {
+                   "id": "PM-CSYO-1673",
+                   "bidfloor":1.7793,
+                   "wseat":[
+                      "6131933"
+                  ]
+               },
+               {
+                   "id": "PM-CZVI-4312",
+                   "bidfloor":1.7793,
+                   "wseat":[
+                      "6131933"
+                  ]
+               },
+               {
+                   "id": "PM-DEPB-7380",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "101"
+                  ]
+               },
+               {
+                   "id": "PM-DIOK-1838",
+                   "bidfloor":1.290784,
+                   "wseat":[
+                      "1451932"
+                  ]
+               },
+               {
+                   "id": "PM-KMFI-4288",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "1117388852"
+                  ]
+               },
+               {
+                   "id": "PM-KZWI-7415",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "134"
+                  ]
+               },
+               {
+                   "id": "PM-NPNJ-4305",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "5031436"
+                  ]
+               },
+               {
+                   "id": "PM-NPPQ-5895",
+                   "bidfloor":1.402632,
+                   "wseat":[
+                      "101"
+                  ]
+               },
+               {
+                   "id": "PM-NSRE-0331",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "685845"
+                  ]
+               },
+               {
+                   "id": "PM-QWLC-2809",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "101"
+                  ]
+               },
+               {
+                   "id": "PM-SMBC-1728",
+                   "bidfloor":1.502474,
+                   "wseat":[
+                      "6164232"
+                  ]
+               },
+               {
+                   "id": "PM-TMLZ-6696",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "1285531"
+                  ]
+               },
+               {
+                   "id": "PM-TYQW-6997",
+                   "bidfloor":2.452474,
+                   "wseat":[
+                      "4002831"
+                  ]
+               },
+               {
+                   "id": "PM-UGSB-9312",
+                   "bidfloor":1.502474,
+                   "wseat":[
+                      "849135"
+                  ]
+               },
+               {
+                   "id": "PM-VMUA-0998",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "2500931"
+                  ]
+               },
+               {
+                   "id": "PM-WVLN-3268",
+                   "bidfloor":1.402632,
+                   "wseat":[
+                      "101"
+                  ]
+               },
+               {
+                   "id": "PM-WWLE-4050",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "1385045"
+                  ]
+               },
+               {
+                   "id": "PM-XKAD-1003",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "1590645"
+                  ]
+               },
+               {
+                   "id": "PM-XORG-3535",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "826402748"
+                  ]
+               },
+               {
+                   "id": "PM-YICU-7009",
+                   "bidfloor":1.052632,
+                   "wseat":[
+                      "1451932"
+                  ]
+               },
+               {
+                   "id": "PM-ZYPJ-9072",
+                   "bidfloor":2.052632,
+                   "wseat":[
+                      "641046"
+                  ]
+               }
+            ]
+         },
+          "ext":{
+             "headerbidding":{
+                "present":1
+            },
+             "ae":1
+         }
+      }
+   ],
+    "site":{
+       "id": "806974",
+       "cat":[
+          "IAB9",
+          "IAB5"
+      ],
+       "page": "https://screenrant.com/andrew-mccarthy-best-movies-ranked-rotten-tomatoes/",
+       "domain": "screenrant.com",
+       "ref": "https://www.google.com/",
+       "mobile":1,
+       "publisher":{
+          "id": "158355",
+          "cattax":1
+      },
+       "content":{
+          "cattax":1
+      },
+       "cattax":1
+   },
+    "device":{
+       "ip": "58.84.62.154",
+       "lmt":0,
+       "make": "Apple",
+       "model": "iPhone",
+       "os": "iOS",
+       "osv": "16.7.2",
+       "js":1,
+       "connectiontype":2,
+       "devicetype":4,
+       "geo":{"lat":18.459999,"lon":73.860001,"type":2,"city":"pune","metro":"356005","zip":"411043","country":"IND","region":"mh","ipservice":4},
+       "geofetch":0,
+       "ext":{
+          "xff": "58.84.62.154",
+          "res": "-1x-1",
+          "freq":0,
+          "pf":2
+      }
+   },
+    "user":{
+       "id":"0C0ED6ED-BFDF-4A29-8632-955ECF28CE75",
+       "buyeruid": "759388915088345544",
+       "eids":[
+         {
+             "source": "id5-sync.com",
+             "uids":[
+               {
+                   "id": "ID5*5k5ETVhN86fuaNmuo_qu6bcnN_976PJJb61rd8Sem-109Dhp2unMCKbsaawV5NsIdPbzVEnic53OC4vKd60Rbg"
+               }
+            ]
+         },
+         {
+             "source": "pubcid.org",
+             "uids":[
+               {
+                   "id": "e7d0e5e2-fa55-43f3-a26d-ec66d8cf1f5e"
+               }
+            ]
+         },
+         {
+             "source": "adserver.org",
+             "uids":[
+               {
+                   "id": "8032b663-84d2-42b5-8ff9-23ecd157ddcc",
+                   "ext":{
+                      "rtiPartner": "TDID"
+                  }
+               }
+            ]
+         }
+      ],
+       "ext":{
+          "eids":[
+            {
+                "source": "id5-sync.com",
+                "uids":[
+                  {
+                      "id": "ID5*5k5ETVhN86fuaNmuo_qu6bcnN_976PJJb61rd8Sem-109Dhp2unMCKbsaawV5NsIdPbzVEnic53OC4vKd60Rbg"
+                  }
+               ]
+            },
+            {
+                "source": "pubcid.org",
+                "uids":[
+                  {
+                      "id": "e7d0e5e2-fa55-43f3-a26d-ec66d8cf1f5e"
+                  }
+               ]
+            },
+            {
+                "source": "adserver.org",
+                "uids":[
+                  {
+                      "id": "8032b663-84d2-42b5-8ff9-23ecd157ddcc",
+                      "ext":{
+                         "rtiPartner": "TDID"
+                     }
+                  }
+               ]
+            }
+         ]
+      }
+   },
+    "bcat":[
+       "IAB11",
+       "IAB25-2",
+       "IAB25-3",
+       "IAB25-5",
+       "IAB26",
+       "IAB26-1",
+       "IAB26-3",
+       "IAB7-39",
+       "IAB8-18",
+       "IAB8-5",
+       "IAB9-7",
+       "IAB9-9"
+   ],
+    "cattax":1,
+    "badv":[
+       "advisorservices.schwab.com",
+       "airfrance.ca",
+       "alza.cz",
+       "avast.com",
+       "bicworld.com",
+       "booking.com",
+       "bookofmormonbroadway.com",
+       "caplyta.com",
+       "casinofriday.com",
+       "doradobet.com",
+       "fiskerinc.com",
+       "ft.com",
+       "glassdoor.com",
+       "goodstart.org.au",
+       "greenmountainenergy.com",
+       "hy-vee.com",
+       "ikea.com",
+       "iqos.com",
+       "lifelock.com",
+       "lilly.com",
+       "mattressfirm.com",
+       "pa.betrivers.com",
+       "pandora.net",
+       "pge.com",
+       "premierinn.com",
+       "razer.com",
+       "rybelsus.com",
+       "skiamade.com",
+       "spotify.com",
+       "tastytrade.com",
+       "ticketmaster.com",
+       "toyota.com",
+       "unibet.com",
+       "unilever.com",
+       "viaplay.no",
+       "victoriassecret.com",
+       "vodafone.hu",
+       "www.kimcrawfordwines.com",
+       "youtube.com",
+       "zetcasino.com"
+   ],
+    "source":{
+       "fd":1,
+       "pchain": "3adbe8d09f15cf6c:105199691-5d62403b186f2ace:158355",
+       "schain":{
+          "complete":1,
+          "ver": "1.0",
+          "nodes":[
+            {
+                "asi": "risecodes.com",
+                "sid": "646613a092e24f00018d1fd3",
+                "rid": "66701069efef7cb1",
+                "name": "ValnetDirect",
+                "domain": "valnetinc.com",
+                "hp":1
+            },
+            {
+                "asi": "amxrtb.com",
+                "sid": "105199691",
+                "hp":1
+            },
+            {
+                "asi": "pubmatic.com",
+                "sid": "158355",
+                "rid": "28E68FC0-C672-40A5-8BE2-E312A153AB36B",
+                "hp":1
+            }
+         ]
+      },
+       "ext":{
+          "schain":{
+             "complete":1,
+             "ver": "1.0",
+             "nodes":[
+               {
+                   "asi": "risecodes.com",
+                   "sid": "646613a092e24f00018d1fd3",
+                   "rid": "66701069efef7cb1",
+                   "name": "ValnetDirect",
+                   "domain": "valnetinc.com",
+                   "hp":1
+               },
+               {
+                   "asi": "amxrtb.com",
+                   "sid": "105199691",
+                   "hp":1
+               },
+               {
+                   "asi": "pubmatic.com",
+                   "sid": "158355",
+                   "rid": "28E68FC0-C672-40A5-8BE2-E312A153AB36B",
+                   "hp":1
+               }
+            ]
+         }
+      }
+   }
+}
